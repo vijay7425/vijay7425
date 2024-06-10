@@ -15,10 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vijay-singh-chouhan-83a69a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vijay-singh-chouhan-83a69a243" height="30" width="40" /></a>
-<a href="https://instagram.com/_vijay_singh777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vijay_singh777" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vijaysindbzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vijaysindbzy" height="30" width="40" /></a>
-</p>
+    
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vijay_singh777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-singh-chouhan-83a69a243) [![GeekforGeeks](https://img.shields.io/badge/GeekforGeeks-12100E?logo=medium&logoColor=white)](https://auth.geeksforgeeks.org/user/vijaysindbzy)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
