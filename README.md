@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Machine Learning and WebD Projects**
 
 - 🌱 I’m currently learning **Data Science , Machine Learning , Deep Learning , Frontend Development and Javascript**
 
