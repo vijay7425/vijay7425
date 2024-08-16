@@ -1,4 +1,4 @@
-![MasterHead](https://prutor.ai/wp-content/uploads/ai-ml-certification-program.jpg)
+![MasterHead](https://s3-us-west-2.amazonaws.com/speedybrandimages/tmp_6b7a260e-a717-4625-b845-a7f8ee929ee3.webp)
 ## <h1 align="center">Hi 👋, I'm Vijay Singh Chouhan</h1>
 ## <h3 align="center">A passionate Data science and AI/ML enthusiast from India</h3>
 <img align="right" alt="Coding" width="358" src="https://epe.brightspotcdn.com/dims4/default/b96a445/2147483647/strip/true/crop/3537x2400+32+0/resize/840x570!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Fc4%2Ffc%2Fd41779074e15b3d8a634c61c8c29%2Fai-interview-animated.gif">
